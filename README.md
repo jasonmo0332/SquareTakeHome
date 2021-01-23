@@ -5,7 +5,7 @@ Square take home project created by Jason Mo
 Submitted 1/22/20
 
 */
-1. XCode Version 12.3, iOS 14.3 for iPhone
+1. XCode Version 12.3, iOS 14.3 for iPhone 11 Pro
 2. I focused primarily on the architecture and data flow. The UI is not amazing, but displays all the data neccessary, 
 and I arranged the UI a readable/understandable way programmatically. I created custom classes for Buttons, and used Codable for
 to recieve the data and converting the json data into my custom class
