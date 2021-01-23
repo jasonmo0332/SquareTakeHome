@@ -2,7 +2,8 @@
 
 README
 Square take home project created by Jason Mo
-Submitted 1//22/20
+Submitted 1/22/20
+
 */
 1. XCode Version 12.3, iOS 14.3 for iPhone
 2. I focused primarily on the architecture and data flow. The UI is not amazing, but displays all the data neccessary, 
